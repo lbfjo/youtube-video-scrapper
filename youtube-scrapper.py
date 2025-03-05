@@ -11,7 +11,7 @@ except ModuleNotFoundError:
     sys.exit(1)
 
 # Set up YouTube API
-API_KEY = "AIzaSyDJiocRUSYYwI1gK3uyDrwnLIGIQx2LQcc"  # Replace with your actual API key
+API_KEY = "API-KEY"  # Replace with your actual API key
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 PROD2_CHANNEL_ID = "UCu98ro1AIOu-4wtZxDRS6Tg"
